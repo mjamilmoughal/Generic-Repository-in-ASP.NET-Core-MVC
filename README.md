@@ -1,0 +1,1 @@
+# Generic-Repository-in-ASP.NET-Core-MVC
